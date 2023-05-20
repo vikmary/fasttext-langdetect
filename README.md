@@ -1,5 +1,9 @@
 # fasttext-langdetect
-This library is a wrapper for the language detection model trained on fasttext by Facebook. For more information, please visit: https://fasttext.cc/docs/en/language-identification.html
+This library is a fork of a wrapper for the language detection model trained on fasttext by Facebook. The fork introduces:
+- dependency on fasttext-wheel instead of fasttext
+because of installation issues of fasttext for PEP517.
+
+For more information on fasttext, please visit: https://fasttext.cc/docs/en/language-identification.html
 
 
 ## Supported languages
