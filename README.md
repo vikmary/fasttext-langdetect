@@ -13,7 +13,7 @@ af als am an ar arz as ast av az azb ba bar bcl be bg bh bn bo bpy br bs bxr ca 
 
 ## Install
 ```
-pip install fasttext-langdetect
+pip install git+https://github.com/vikmary/fasttext-langdetect.git
 ```
 
 ## Usage
